@@ -6,7 +6,7 @@ export function SectionTestimonials() {
     <section className="py-16 xl:py-24 bg-gray-50">
       <GridContainer className="text-center">
         <Image
-          src="/sisyphus.svg"
+          src="/sisyphus.webp"
           width={140}
           height={40}
           alt="Sisyphus"
@@ -18,7 +18,7 @@ export function SectionTestimonials() {
         </h2>
         <div>
           <Image
-            src="/avatar-02.jpg"
+            src="/avatar-02.webp"
             width={64}
             height={64}
             alt="Avatar"

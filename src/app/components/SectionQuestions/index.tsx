@@ -42,7 +42,7 @@ export function SectionQuestions() {
         </div>
         <div className="mt-16 bg-gray-50 rounded-2xl p-8 text-center">
           <Image
-            src="/users.png"
+            src="/users.webp"
             width={120}
             height={56}
             alt="Users"

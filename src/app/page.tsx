@@ -1,5 +1,3 @@
-import Image from "next/image";
-import { Header } from "./components/Header";
 import { SectionHero } from "./components/SectionHero";
 import { SectionCompanies } from "./components/SectionCompanies";
 import { SectionFeatures } from "./components/SectionFeatures";
@@ -8,7 +6,6 @@ import { SectionAnalitycs } from "./components/SectionAnalitycs";
 import { SectionQuestions } from "./components/SectionQuestions";
 import { SectionLauch } from "./components/SectionLauch";
 import { SectionTrial } from "./components/SectionTrial";
-import { Footer } from "./components/Footer";
 
 export default function Home() {
   return (
@@ -17,10 +14,10 @@ export default function Home() {
       <SectionCompanies />
       <SectionFeatures />
       <SectionTestimonials />
-     <SectionAnalitycs />
+      <SectionAnalitycs />
       <SectionQuestions />
       <SectionLauch />
-     <SectionTrial />
+      <SectionTrial />
     </>
   );
 }

@@ -30,7 +30,7 @@ export function Header() {
       <GridContainer className="flex items-center justify-between">
         <div className="w-full xl:w-auto flex items-center justify-between gap-10">
           <Image
-            src="/Logo.svg"
+            src="/Logo.webp"
             width={142}
             height={32}
             alt="Logo Untitled UI"
@@ -47,7 +47,7 @@ export function Header() {
           </nav>
           <button>
             <Image
-              src="/menuHamburguer.svg"
+              src="/menuHamburguer.webp"
               width={40}
               height={40}
               alt="Menu Hamburguer"
@@ -57,7 +57,7 @@ export function Header() {
         </div>
         <div className="">
           <Image
-            src="/Avatar.jpg"
+            src="/Avatar.webp"
             width={40}
             height={40}
             alt="Avatar"

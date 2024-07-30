@@ -48,7 +48,7 @@ export function SectionLauch() {
           </div>
           <div>
             <Image
-              src="/img-lauch.jpg"
+              src="/img-lauch.webp"
               width={560}
               height={560}
               alt="Image Lauch"

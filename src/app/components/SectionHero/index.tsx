@@ -20,7 +20,7 @@ export function SectionHero() {
           <AreaCtas />
         </div>
         <Image
-          src="/macbook.svg"
+          src="/macbook.webp"
           width={1216}
           height={480}
           alt="Mockup macbook"
@@ -28,7 +28,7 @@ export function SectionHero() {
         />
 
         <Image
-          src="/macbook-mobile.png"
+          src="/macbook-mobile.webp"
           width={343}
           height={200}
           alt="Mockup macbook mobile"

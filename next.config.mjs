@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  assetPrefix: "./",
-  basePath: "/untitled-ui",
-  trailingSlash: true,
-};
+const nextConfig = {};
 
-module.exports = nextConfig;
+export default nextConfig;

@@ -22,14 +22,14 @@ export function SectionAnalitycs() {
         </div>
         <div className="relative w-full max-w-full xl:max-w-[888px] h-auto xl:h-[561px] mx-auto mb-12 xl:mb-24">
           <Image
-            src="/screen-macbook.png"
+            src="/screen-macbook.webp"
             width={768}
             height={512}
             alt="Macbook"
             className="hidden xl:block absolute -top-[15px] -right-[18px]"
           />
           <Image
-            src="/iphone.png"
+            src="/iphone.webp"
             width={244}
             height={497}
             alt="Iphone"
